@@ -1,0 +1,20 @@
+.bg-sea{
+    background-image:url(../images/nature.jpg);
+    background-size: cover;
+}
+.pad{
+padding: 100%;
+}
+.im{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.borderr{
+    border: none;
+}
+.bg-gray{
+    background-color: rgb(180, 159, 159);
+}
